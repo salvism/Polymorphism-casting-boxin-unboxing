@@ -1,0 +1,14 @@
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.exe
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.deps.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.runtimeconfig.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.runtimeconfig.dev.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\bin\Debug\netcoreapp3.1\Homework12.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.csproj.AssemblyReference.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.AssemblyInfoInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.AssemblyInfo.cs
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.csproj.CoreCompileInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework12\Homework12\obj\Debug\netcoreapp3.1\Homework12.genruntimeconfig.cache
